@@ -153,4 +153,20 @@ To do so, here is what you can write :
 
 ` ![](image_url) `
 
-![]()
+<br>
+
+Example :
+
+`![](https://github.com/DimitriKneur/Exploring-Markdown-Possibilities/assets/150923253/94053ab4-a2f1-4003-b634-834cae5cc00f)`
+
+<br>
+
+![](https://github.com/DimitriKneur/Exploring-Markdown-Possibilities/assets/150923253/94053ab4-a2f1-4003-b634-834cae5cc00f)
+
+<br>
+
+> [!TIP]
+> Just like the link section, it is recommended to use relative links over absolute links when it is possible.
+
+<br>
+
