@@ -4,7 +4,6 @@ Discover here some tips to help you enhance your markdown files.
 
 Let's go !
 
-<br>
 
 ## Add titles and subtitles
 
@@ -170,3 +169,108 @@ Example :
 
 <br>
 
+## Add a list
+
+You can add an unordered list :
+```
+- Elon Musk
+* Jeff Bezos
++ Steve Jobs
+```
+- Elon Musk
+- Jeff Bezos
+- Steve Jobs
+
+<br>
+
+an ordered list :
+```
+1. Apple
+2. Banana
+3. Cherry
+```
+1. Apple
+2. Banana
+3. Cherry
+
+<br>
+
+and even a nested list :
+```
+1. Fist level
+   - Second level
+     - Third level
+```
+1. Fist level
+   - Second level
+     - Third level
+
+<br>
+
+## Add footnotes
+
+It's possible to add footnotes by applying this syntax :
+
+```
+Life is short[^1], time is precious[^2].
+
+[^1]: Source that proves life is short
+[^2]: Source that proves time is precious
+```
+
+<br>
+
+This is how it will render :
+
+<br>
+
+Life is short[^1], time is precious[^2].
+
+[^1]: Source that proves life is short
+[^2]: Source that proves time is precious
+
+<br>
+
+## Add alerts
+
+There are some alert blocks that you can use to point out information in various ways.
+
+Here are the different possibilities :
+
+```
+> [!NOTE]
+> Useful information
+
+> [!TIP]
+> Pieces of advice
+
+> [!IMPORTANT]
+> Key information
+
+> [!WARNING]
+> Points requiring further attention.
+
+> [!CAUTION]
+> Points requiring high vigilance.
+```
+
+<br>
+
+This will be displayed the following way :
+
+<br>
+
+> [!NOTE]
+> Useful information
+
+> [!TIP]
+> Pieces of advice
+
+> [!IMPORTANT]
+> Key information
+
+> [!WARNING]
+> Points requiring further attention.
+
+> [!CAUTION]
+> Points requiring high vigilance.
