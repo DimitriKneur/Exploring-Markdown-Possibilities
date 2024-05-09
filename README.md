@@ -19,6 +19,6 @@ Let's take an example. If you write into your markdown :
 Here is what will be displayed :
 <br>
 <br>
-![](https://github.com/DimitriKneur/Exploring-Markdown-Possibilities/blob/main/Screenshots/Titles.png)
+![](Screenshots/Headings.png)
 
 As you can see, the more # you add, the lower your element will be in the title hierarchy.
