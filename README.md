@@ -103,7 +103,9 @@ The following will be displayed :
 ## Add a link
 
 You can insert a link into a markdown file by writing :
-> <br>
+
+<br>
+
 ` [text_of_the_link](url) `
 
 <br>
@@ -139,4 +141,16 @@ Here is a link pointing out to the website of [IMDB](https://www.imdb.com/).
 > <br>
 > If you want more information about relative links, don't hesitate to have a look at [GitHub documentation about relative links](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links).
 
+<br>
 
+## Add an image
+
+You can also add an image inside a markdown file.
+
+To do so, here is what you can write :
+
+<br>
+
+` ![](image_url) `
+
+![]()
