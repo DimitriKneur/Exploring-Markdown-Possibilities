@@ -122,3 +122,7 @@ Then you can write :
 And see the result :
 
 Here is a link pointing out to the website of [IMDB](https://www.imdb.com/).
+
+> [!TIP]
+> If the ressource you want to create a link for is insite the repository, it is recommended to use relative links. That will make it easier for users if they navigate into your repository or clone it.
+> For example, if you want
