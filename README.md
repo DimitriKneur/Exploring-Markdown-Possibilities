@@ -14,10 +14,11 @@ Let's take an example. If you write into your markdown :
 ## Tremendous Title 2
 ### Breathtaking Title 3
 ```
-Here is what will be displayed :
-# Amazing Title 1
-## Tremendous Title 2
-### Breathtaking Title 3
 <br>
+
+Here is what will be displayed :
+<br>
+<br>
+![](https://github.com/DimitriKneur/Exploring-Markdown-Possibilities/blob/main/Screenshots/Titles.png)
 
 As you can see, the more # you add, the lower your element will be in the title hierarchy.
