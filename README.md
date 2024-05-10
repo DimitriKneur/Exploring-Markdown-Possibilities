@@ -274,3 +274,38 @@ This will be displayed the following way :
 
 > [!CAUTION]
 > Points requiring high vigilance.
+
+<br>
+
+## Add a table
+
+Having a table in your repository can really look great, and it's not that complicated to implement one.
+
+To add a tab, you can use this syntax :
+
+```
+| Column_name_1 | Column_name_2 | Column_name_3 |
+|---------------|---------------|---------------|
+|    value_1    |    value_2    |    value_3    |
+|    value_4    |    value_5    |    value_6    |
+|    value_7    |    value_8    |    value_9    |
+```
+
+Here, the number of caracters between the `|` signs does not really matter, and neither does the difference of caracters of the cells within your table, you just have to pay attention that you have the same number of columns for each line of the tab you are designing.
+
+<br>
+
+Let's try to make a table to describe a data source :
+
+```
+| Column | Description |
+|---------------|---------------|
+|    show_id    |    Unique ID for every Show    |
+|    type    |    A Movie or TV Show    |
+|    title    |    Title of the Movie / Tv Show    |
+```
+| Column | Description |
+|---------------|---------------|
+|    show_id    |    Unique ID for every Show    |
+|    type    |    A Movie or TV Show    |
+|    title    |    Title of the Movie / Tv Show    |
