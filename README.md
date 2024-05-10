@@ -311,3 +311,20 @@ Let's try to make a table to describe a data source :
 |    show_id    |    Unique ID for every Show    |
 |    type    |    A Movie or TV Show    |
 |    title    |    Title of the Movie / Tv Show    |
+
+
+## Add a customized animated message
+
+If you want to go further, you can add a customized animated message.
+
+This is possible thanks to the [Readme Typing SVG website](https://readme-typing-svg.demolab.com/demo/).
+
+Here, in just a few seconds, you can type the successive text lines that you want to display, and even change settings like the font, the size or the color.
+
+When you have defined all your parameters, at the bottom of the page, you can preview the result. You will also find the markdown link corresponding to the animated message you just designed. All you have to do next, is to copy this link and paste it into your markdown file, and that's it.
+
+Have a try ! The process is really entertaining, and the result is worth it !
+
+For example, here is 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+!;I+am+Dimitri+Kneur%2C+Data+Analyst;Specialized+in+SQL%2C+Python+and+Power+BI;Always+learning%2C+always+improving;Enjoy+your+visit+!)](https://git.io/typing-svg)
