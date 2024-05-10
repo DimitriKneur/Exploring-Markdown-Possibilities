@@ -171,6 +171,25 @@ Example :
 
 <br>
 
+You can even use ` html ` code to better the rendering of the image.
+
+For example here, let's say you want a smaller and horizontally-centered image.
+
+Here is an example of code you could write to achieve this :
+
+```
+<p align="center">
+  <a><img src="Screenshots/noter.png" width="128px" /></a>
+</p> 
+```
+<p align="center">
+  <a><img src="Screenshots/eureka.png" width="128px" /></a>
+</p> 
+
+Here, you apply the changes mentioned above thanks to the `align="center"` and `width="128px"`.
+
+As you can see, you don't have to be a web developer or an HTML expert to insert some code that can bring some huge improvment to your markdown files.
+
 > [!TIP]
 > Just like the link section, it is recommended to use relative links over absolute links when it is possible.
 
@@ -393,12 +412,22 @@ And this is what it looks like at the end in the github markdown file :
 
 <br>
 
+## Try yourself, keep learning and take inspiration from other people
+
+This is maybe the best piece of advice I could give you : data is a fast-paced environment, and things change very quickly. You can keep learning things everyday, and this way you will constantly discover new improvments for your markdown files. Don't hesitate to look at what other users made on theirs : when you find one where you like the rendering of a specific element, you can have a look at the code to see how it was implemented.
+
+The aim is not necessarily to multiply formatting so as to achieve a busy, unreadable result, but to create markdown files in formats that are pleasing to the eye and that suit you. 
+
+Try out some options, look at various markdown files, and design the ones that suit you best. 
+
+<br>
+
 ## Conclusion
 
 I hope you've found this guide useful, and that it's provided you with tips you can use again and again.
 
+It does not aim to be exhaustive. It's just a starting point to make you break through the markdown possibilities.
+
+Now that you have discovered basic knowledge about them, you can explore by yourself all the possibilities of the markdownverse. The sky's the limit.
+
 Now you have no excuse for making ugly, unreadable markdown files !
-
-On a more serious note, the aim is not to multiply formatting so as to achieve a busy, unreadable result, but to create markdown files in formats that are pleasing to the eye and that suit you. 
-
-Try out some options, look at various markdown files, and choose the one that suits you best. The sky's the limit.
