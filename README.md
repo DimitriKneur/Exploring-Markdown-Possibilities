@@ -72,7 +72,7 @@ The following will be displayed :
 
 Want to add some code to your markdown file ? This is possible !
 
-To do so, put triple backticks ``` before and after the text you want to apply the code format on.
+To do so, put triple backticks ` ``` ` before and after the text you want to apply the code format on.
 
 Example : if you write
 
