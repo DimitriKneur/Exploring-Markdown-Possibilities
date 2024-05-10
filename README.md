@@ -1,10 +1,8 @@
-# Exploring-Markdown-Possibilities
-
-<br>
-
 <p align="center">
-  <a><img src="Screenshots/noter.png" width="64px" /></a>
+  <a><img src="Screenshots/noter.png" width="128px" /></a>
 </p>
+
+# Exploring-Markdown-Possibilities
 
 <br>
 
