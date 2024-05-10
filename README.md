@@ -340,7 +340,22 @@ And here is the result !
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+!;I+am+Dimitri+Kneur%2C+Data+Analyst;Specialized+in+SQL%2C+Python+and+Power+BI;Always+learning%2C+always+improving;Enjoy+your+visit+!)](https://git.io/typing-svg)
 
-<br>
-
 ## Add a badge
+
+A simple way to add a badge is to insert this kind of code in the github markdown file
+
+```
+<img style="padding:2px" src="https://img.shields.io/badge/[badge_name]-[badge_color_code].svg?style=for-the-badge&logo=[logo_name_from_simpleicons]&logoColor=[logo_color]"/>
+```
+
+with :
+
+- badge_name : the text that will be displayed in the badge
+- badge_color_code : the HEX (6 caracters) code of the wanted color for the badge
+- logo_name_from_simpleicons : the slug of the logo from [simpleicons repository](https://github.com/simple-icons/simple-icons/blob/master/slugs.md) . You can preview them on the website [simpleicons.org](https://simpleicons.org/)
+- logo_color : the wanted color for the logo
+
+Example : let’s say we want to display in a github markdown a yellow badge, with Power BI logo and with Power BI written in black. 
+
+Let’s query power bi on https://simpleicons.org/, here are the results :
 
