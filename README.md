@@ -290,7 +290,7 @@ This will be displayed the following way :
 
 Having a table in your repository can really look great, and it's not that complicated to implement one.
 
-To add a tab, you can use this syntax :
+To add a table, you can use this syntax :
 
 ```
 | Column_name_1 | Column_name_2 | Column_name_3 |
