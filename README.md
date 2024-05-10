@@ -6,8 +6,6 @@
 
 # Exploring-Markdown-Possibilities
 
-<br>
-
 Discover here some tips to help you enhance your markdown files.
 
 Let's go !
