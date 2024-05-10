@@ -2,6 +2,8 @@
   <a><img src="Screenshots/noter.png" width="128px" /></a>
 </p>
 
+<br>
+
 # Exploring-Markdown-Possibilities
 
 <br>
