@@ -51,7 +51,7 @@ As you can see, the more `#` you add, the lower your element will be in the titl
 
 ## Add quote
 
-To transform a text into a quote, you can simply add `>' before it.
+To transform a text into a quote, you can simply add `>` before it.
 
 Example : if you write 
 
