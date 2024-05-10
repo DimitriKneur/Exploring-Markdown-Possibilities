@@ -1,5 +1,7 @@
 # Exploring-Markdown-Possibilities
 
+<br>
+
 <p align="center">
   <a><img src="Screenshots/noter.png" width="64px" /></a>
 </p>
