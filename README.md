@@ -1,9 +1,16 @@
 # Exploring-Markdown-Possibilities
 
+<p align="center">
+  <a><img src="Screenshots/noter.png" width="64px" /></a>
+</p>
+
+<br>
+
 Discover here some tips to help you enhance your markdown files.
 
 Let's go !
 
+<br>
 
 ## Add titles and subtitles
 
@@ -357,5 +364,41 @@ with :
 
 Example : let’s say we want to display in a github markdown a yellow badge, with Power BI logo and with Power BI written in black. 
 
-Let’s query power bi on https://simpleicons.org/, here are the results :
+Let’s query power bi on https://simpleicons.org/, here is the best result :
 
+![](Screenshots/PowerBI_logo.png)
+
+To have the slug of the corresponding logo, we go to [simple-icons GitHub repository](https://github.com/simple-icons/simple-icons/blob/master/slugs.md). We look for power bi and this is what we find :
+
+![](Screenshots/PowerBI_slug.png)
+
+So the slug is `powerbi`
+
+Therefore we will enter the following parameters :
+
+- badge_name : `Power%20BI` (“Power BI” can be displayed if we replace space with %20)
+- badge_color_code : `F2C811`, as indicated in the screenshot to respect the brand color
+- logo_name_from_simpleicons : `powerbi`
+- logo_color : the wanted color for the logo
+
+Then we will enter this following line on our github markdown file :
+
+```markdown
+<img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+```
+
+And this is what it looks like at the end in the github markdown file :
+
+<img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br>
+
+## Conclusion
+
+I hope you've found this guide useful, and that it's provided you with tips you can use again and again.
+
+Now you have no excuse for making ugly, unreadable markdown files !
+
+On a more serious note, the aim is not to multiply formatting so as to achieve a busy, unreadable result, but to create markdown files in formats that are pleasing to the eye and that suit you. 
+
+Try out some options, look at various markdown files, and choose the one that suits you best. The sky's the limit.
