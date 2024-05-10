@@ -226,6 +226,8 @@ This is how it will render :
 
 Life is short[^1], time is precious[^2].
 
+Click on the links to see the footnotes at the bottom of this page.
+
 [^1]: Source that proves life is short
 [^2]: Source that proves time is precious
 
