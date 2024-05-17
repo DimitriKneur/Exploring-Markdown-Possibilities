@@ -1,10 +1,12 @@
+# Exploring-Markdown-Possibilities
+
+<br>
+
 <p align="center">
   <a><img src="Screenshots/noter.png" width="128px" /></a>
 </p>
 
 <br>
-
-# Exploring-Markdown-Possibilities
 
 Discover here some tips to help you enhance your markdown files.
 
